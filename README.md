@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @phyllis8camill883
+- 👀 I’m interested in C and learning C++.
+- 💞️ Fascinated by low-level programming and eager to delve into systems software.
